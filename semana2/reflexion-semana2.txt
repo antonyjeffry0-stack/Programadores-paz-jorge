@@ -1,0 +1,16 @@
+aprender a usar la terminal es importante por que te ayuda
+a manejar los archivos de una forma mas directa. al principio
+parece dificil por que no hay botones ni mause pero cuando
+ te aprendes los comandos ves que es mas rapido hacer las
+cosas. me sirve para organizar mis carpetas de estudio y 
+trabajo de programacion de una manera mas limpia tambien 
+es clave por que muchas herramientas de desarroyo solo funciosan escribiendo comando en la pantalla negra. si uno
+quiere ser un buen desarrolador, tiene que saber moverce por
+lqs carpedas usando cd y ls sin miedo. ademas te ayuda a 
+mejor como funciona la computadora por dentro y no depender
+de las ventanas de siempre.
+
+es una herramienta basica que todos los que todos los que 
+estudiamos tegnologia deveriamos de dominar desde el principio,
+al final usar la terminal te ahorra tiempo y te hace ver 
+como alguien que de verdad sabe lo que esta haciendo con el codigo.

@@ -1,0 +1,14 @@
+pwd
+ls
+cd Programadores-paz-jorge 
+mkdir semana2
+cd semana2
+touch: para los tres .txt
+nano: oqra los tres .txt
+cat: oara revisar
+git add .
+git commit -m "nombre"
+git push
+
+
+

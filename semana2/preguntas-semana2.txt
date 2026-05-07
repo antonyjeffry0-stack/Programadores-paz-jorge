@@ -1,0 +1,11 @@
+pregunta 1
+respuesta B: ejecutar comandos para interactuar con el sistemas 
+
+pregunta 2 
+resouesta B: muestra la ubicacion actual del sistemas de carpegas
+
+pregunta 3 
+respuesta C: ls
+
+pregunta 4 
+respuesta B: mkdir
