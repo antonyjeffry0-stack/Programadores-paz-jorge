@@ -1,0 +1,11 @@
+Llevar un registro de cambios con Git es como tener una máquina del tiempo para
+ tu código, Si metes la pata o borras algo sin querer, no tienes que entrar en
+ pánico ni empezar de cero. ya que puedes volver fácilmente a una versión anterior
+ donde todo funcionaba de maravilla. Además, cuando trabajas en equipo, evita que
+ la gente se vuelva loca pisándose el trabajo mutuo, porque Git organiza los cambios de todos de forma inteligente y sin borrar lo de los demás.
+Te olvidas por completo de guardar carpetas con nombres horribles como
+ "proyecto_final_final_este_si" Todo queda ordenado en un solo lugar, con fechas
+ y notas de qué hizo cada quién y en qué momento. Básicamente, le da orden al
+ caos del desarrollo y te salva la vida cuando las cosas se ponen duras
+ En resumen, usar Git no es un capricho, es la única forma de trabajar tranquilos
+ y sin perder la cabeza.
