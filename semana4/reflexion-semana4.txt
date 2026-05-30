@@ -1,0 +1,9 @@
+construir con tecnologías abiertas es como si en el barrio compartieran
+la receta secreta de unas empanadas donde cualquiera puede ver
+los ingredientes mejorar el guiso y hacerlas gratis para los
+vecinos, Con herramientas como Node.js la comunidad no tiene que
+comprarle la comida ya hecha a una empresa carísima sino que
+ellos mismos cocinan sus propias aplicaciones para ayudar a la
+cuadra así la gente soluciona sus problemas reales sin depender
+de nadie ahorran plata y los jóvenes aprenden a crear tecnología
+propia y bien firme
