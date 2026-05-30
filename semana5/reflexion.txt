@@ -1,0 +1,11 @@
+las APIs son como unos puentes que ayudan a que las aplicaciones
+se pasen datos entre sí, En una comunidad servirían un montón
+para organizar las alertas en un solo lugar, en vez de tener
+todo regado en grupos de WhatsApp donde la información siempre
+se pierde. Si un vecino reporta un problema en una app, la API
+agarra ese dato de una y lo sube al sistema. De ahí mismo
+se encarga de avisarle a los demás vecinos al toque mandándoles
+una notificación. Al final, nos ayuda a que todos estemos
+enterados de las emergencias al instante sin tener que estar
+reenviando mensajes manualmente que es muy aburrido.
+

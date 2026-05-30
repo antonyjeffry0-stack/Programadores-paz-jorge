@@ -1,0 +1,8 @@
+en la ruta http://localhost:3000
+aparece: servidor activo
+
+en la ruta http://localhost:3000/saludo
+aparece: un saludo
+
+en la ruta http://localhost:3000/mensaje/juan
+aparece: hola juan
