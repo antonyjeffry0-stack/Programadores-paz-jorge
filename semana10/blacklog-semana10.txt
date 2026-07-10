@@ -1,0 +1,12 @@
+Como ciudadano quiero tomar una foto y reportar un daño en mi barrio
+ para que la alcaldía y los vecinos vean la prueba del problem
+
+Como líder comunitario quiero ver un mapa con todos los reportes del sector
+ para organizar las quejas y gestionar las soluciones rápido.
+
+Como ciudadano quiero recibir una alerta cuando reparen el problema que
+ reporté para saber que la vuelta sí funcionó y valió la pena
+
+Como ciudadano quiero recibir una alerta cuando reparen el problema que
+ reporté para saber que la vuelta sí funcionó y valió la pena.
+.

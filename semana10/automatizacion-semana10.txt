@@ -1,0 +1,10 @@
+Evento: Nuevo reporte registrado en el sistema.
+
+​Acción: Enviar mensaje de notificación a Telegram.
+
+​Mensaje: ¡Ey, equipo! Se reportó un nuevo caso en la plataforma. Porfa revisen
+ el sistema para hacerle seguimiento."
+
+​Información que no debe enviarse: Nombres completos, números de identificación
+ direcciones, teléfonos, contraseñas o cualquier dato privado y sensible
+ de los usuarios.

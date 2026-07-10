@@ -1,0 +1,26 @@
+Tarea 1: Creación del módulo para reportar incidentes
+
+Consiste en programar y diseñar la pantalla donde el usuario puede meter
+ todos los datos de un nuevo reporte y enviarlo al sistema sin problemas
+
+Tarea 2: Desarrollo del sistema de consulta y seguimiento
+
+Es armar la sección donde los miembros del equipo pueden buscar y revisar
+ todos los reportes que se han hecho y actualizar el estado en el que
+ van para hacerles el seguimiento.
+.
+
+Por qué son las más importantes?: Porque son la base de todo. Si el usuario
+ no puede ni crear un reporte ni revisar cómo va, la aplicación no sirve
+ para nada, Es lo mínimo que se necesita para que el sistema funcione.
+
+
+Qué significa para ti que una tarea esté terminada: Significa que ya está
+ lista para que la use el cliente final, sin fallos y bien guardada
+ y mis tres criterios son;
+
+1​. El código está limpio y subido a Git sin ningun problema
+ 
+2. ​Se probó y funciona bien (hace lo que tiene que hacer y no rompe nada más).s
+
+3. ​El diseño se ve bien (es fácil de usar para cualquiera).
