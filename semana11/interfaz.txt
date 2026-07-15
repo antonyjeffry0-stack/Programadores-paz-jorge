@@ -1,0 +1,11 @@
+​El diseño contará con un panel para registrar iniciativas indicando su título,
+ descripción y fecha.
+
+​Asimismo, dispondrá de una sección que liste todas las propuestas para que
+ la comunidad las explore.
+
+​Cada opción integrará un botón para manifestar respaldo junto a un marcador
+ de apoyos acumulados.
+
+​Esta interfaz será intuitiva, clara y garantizará la total privacidad
+ de los datos de los usuarios.

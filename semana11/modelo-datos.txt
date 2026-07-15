@@ -1,0 +1,29 @@
+Entidad: Reporte_Problema
+
+Campos principales:
+- id
+- usuario_creador
+- categoria (ej. alumbrado, basura, vías)
+- descripcion
+- ubicacion
+- estado (ej. abierto, en proceso, resuelto)
+- fecha_creacion
+
+Propósito:
+Registrar las fallas, daños o necesidades reportadas por los vecinos
+ en el barrio o comuna para que sean visibles a todos.
+
+
+Entidad: Comentario_Solucion
+
+Campos principales:
+- id
+- reporte_id
+- usuario_comunidad
+- propuesta_texto
+- fecha_comentario
+
+Propósito:
+Permitir que la comunidad aporte ideas, soluciones o actualizaciones
+ sobre el estado de un reporte específico.
+
